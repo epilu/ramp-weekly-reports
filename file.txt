@@ -1,0 +1,2 @@
+Hey i am tom
+. I am learning GIT
