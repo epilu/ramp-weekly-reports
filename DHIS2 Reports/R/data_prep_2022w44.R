@@ -3,9 +3,9 @@ library(dplyr)
 library(tidyverse)
 
 #Set working director
-setwd("D:/Ramp_shiny/")
+setwd("D:/Ramp/")
 #Read weekly malaria data
-malaria_wkly <- read.csv("./raw/mTrac_wk_38_44.csv")
+malaria_wkly <- read.csv("./DHIS2 Reports/raw/mTrac_wk_38_44.csv")
 #Select key indicators for this analysis
 malaria_wkly <- malaria_wkly[ -c(2:5,8,10:13) ]
 
@@ -173,7 +173,7 @@ out_sus <- which(susp_mal$X033B.MA01..Suspected.Malaria..Fever. %in% c(out_sus))
 #print all outliers - associated rows and columns
 out_sus <- susp_mal[out_sus,]
 
-View(out_sus)
+#View(out_sus)
 #exclude error records
 susp_mal <- subset(susp_mal, !susp_mal$X033B.MA01..Suspected.Malaria..Fever.== 4899  & !susp_mal$orgunitlevel5 =="Ofua (Uriama) HC III")#54 dead with opd attendance of 54
 susp_mal <- subset(susp_mal, !susp_mal$X033B.MA01..Suspected.Malaria..Fever.== 4313  & !susp_mal$orgunitlevel5 =="Puranga HC III")#54 dead with opd attendance of 54
@@ -410,5 +410,5 @@ district_clean<-merge(district_clean, micros_pos , by = "orgunitlevel3",all = TR
 
 
 #Export final data to csv
-write.csv(district_clean,file = "./clean/mTrac_2022w43.csv")
+write.csv(district_clean,file = "./DHIS2 Reports/clean/mTrac_2022w43.csv")
 
