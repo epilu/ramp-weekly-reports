@@ -1,0 +1,14 @@
+"location_id","national","region","district","subcounty","facility","location_name","rdt_stock","year","week","q1","q3","iqr","potential_outlier"
+"C7aRTKKbxEP","MOH - Uganda","West Nile","Yumbe District","Drajini Subcounty","Dramba HC III","Dramba HC III",10000,2022,7,192,3709.79999999997,3517.79999999997,1
+"O4KQDQzBA9s","MOH - Uganda","West Nile","Adjumani District","Dzaipi Subcounty","Elema HC II","Elema HC II",71820,2022,44,1536.1,29431.6399999999,27895.5399999999,1
+"QUd8daomu0P","MOH - Uganda","Kampala","Kampala District","Nakawa Division","Benedict HC IV","Benedict HC IV",55418,2022,13,6.94,17532.964,17526.024,1
+"SElLcUjqrGg","MOH - Uganda","South Central","Kyotera District","Kyotera Town Council","Mitukula HC III","Mitukula HC III",20880,2022,35,725,8206.49999999995,7481.49999999995,1
+"UzktdjDR9QA","MOH - Uganda","Kigezi","Kisoro District","Kirundo Subcounty","Kalehe HC II","Kalehe HC II",8750,2022,2,225,3575.60000000002,3350.60000000002,1
+"XWqf7PB1OaR","MOH - Uganda","Ankole","Isingiro District","Isingiro Town Council","Rwekubo HC IV","Rwekubo HC IV",423588,2022,52,146,153228.428000001,153082.428000001,1
+"aHPLLEMdB4o","MOH - Uganda","Kigezi","Rukungiri District","Ruhinda Subcounty","Burombe HC III","Burombe HC III",1000,2022,4,1.92,375.320000000002,373.400000000002,1
+"g4eDmlzUtWL","MOH - Uganda","Bukedi","Butebo District","Kabwangasi Subcounty","Kakoro SDA Dispensary HC II","Kakoro SDA Dispensary HC II",400,2022,42,1,146.012,145.012,1
+"muwJAkGOjj5","MOH - Uganda","Bukedi","Pallisa District","Kamuge Town Council","Kamuge HC III","Kamuge HC III",542500,2022,23,102.44,164669.050000001,164566.610000001,1
+"pE5320aADcw","MOH - Uganda","Karamoja","Moroto District","Northern Division (Moroto MC)","Army Barracks HC III","Army Barracks HC III",750750,2022,10,98.5,284098.5,284000,1
+"qMBXDpWSarC","MOH - Uganda","Tooro","Kamwenge District","Kahunge Town Council","Kyabenda HC III","Kyabenda HC III",1200,2022,26,4.76,440.009999999999,435.249999999999,1
+"uqk1XgbxpCg","MOH - Uganda","West Nile","Maracha District","Alikua Subcounty","Yivu Abea HC III","Yivu Abea HC III",437500,2022,45,252.5,164757.249999999,164504.749999999,1
+"xEN68HYkacl","MOH - Uganda","Teso","Serere District","Olio Subcounty","Akoboi (Serere) HC II","Akoboi (Serere) HC II",525600,2022,14,188.4,192281.700000001,192093.300000001,1

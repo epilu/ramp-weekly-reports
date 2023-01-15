@@ -1,0 +1,10 @@
+"location_id","national","region","district","subcounty","facility","location_name","cases","year","week","q1","q3","iqr","potential_outlier"
+"K17kI4DiiW4","MOH - Uganda","Lango","Oyam District","Minakulu Town Council","His Grace Medical Centre HC II","His Grace Medical Centre HC II",280,2022,48,17.6,121.300000000001,103.700000000001,1
+"Pt5JdbbEF6k","MOH - Uganda","Lango","Oyam District","Ngai Subcounty","Ageno Drugshop","Ageno Drugshop",348,2022,45,2,130.634999999999,128.634999999999,1
+"Wmc36bI5m96","MOH - Uganda","Ankole","Ibanda District","Bufunda Division","Bufunda HC III","Bufunda HC III",777,2022,11,7.68,313.320000000002,305.640000000002,1
+"a01gDo4KauR","MOH - Uganda","North Central","Luwero District","Bombo Town Council","St. Luke Namaliga HC III","St. Luke Namaliga HC III",144,2022,6,4.98,57.2700000000001,52.2900000000001,1
+"aLQq5QTDV2s","MOH - Uganda","South Central","Mpigi District","Kiringente Subcounty","St. Monica Katende HC III","St. Monica Katende HC III",190,2022,2,7.08,71.4249999999999,64.3449999999999,1
+"ao6V9sOp2DA","MOH - Uganda","Busoga","Mayuge District","Malongo Subcounty (Mayuge District)","Malongo HC III","Malongo HC III",1231,2022,39,61.88,526.705000000002,464.825000000002,1
+"hA3RIyJEMci","MOH - Uganda","Acholi","Nwoya District","Anaka Town Council","NUMES Medical Centre","NUMES Medical Centre",133,2022,17,1,47.3199999999999,46.3199999999999,1
+"oIU8rYhh7S4","MOH - Uganda","North Central","Mityana District","Central Division (Mityana MC)","JARO Hospital Annex HC III","JARO Hospital Annex HC III",70,2022,35,2,27.37,25.37,1
+"sDHVCkgwa38","MOH - Uganda","North Central","Luwero District","Katikamu Subcounty","Nsawo Rcc HC III","Nsawo Rcc HC III",136,2022,22,2,53.5150000000002,51.5150000000002,1

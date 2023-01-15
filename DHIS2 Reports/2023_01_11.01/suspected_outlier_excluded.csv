@@ -1,0 +1,11 @@
+"location_id","national","region","district","subcounty","facility","location_name","suspected","year","week","q1","q3","iqr","potential_outlier"
+"AT6wxdMK8PV","MOH - Uganda","Ankole","Kiruhura District","Kenshunga Subcounty","Rwabigyemano HC III","Rwabigyemano HC III",6996,2022,47,55,2395.08000000001,2340.08000000001,1
+"GjiT4Fcwj6P","MOH - Uganda","North Central","Kyankwanzi District","Gayaza Subcounty","Kiyuni HC III","Kiyuni HC III",1971,2022,40,39.2,762.120000000002,722.920000000002,1
+"TjEiAVNTIFy","MOH - Uganda","North Central","Mityana District","Central Division (Mityana MC)","Mityana Hospital","Mityana Hospital",1439,2022,46,22.94,572.435000000001,549.495000000001,1
+"W2DisxptRpM","MOH - Uganda","Ankole","Ntungamo District","Rweikiniro Subcounty","Kibeho HC II","Kibeho HC II",2210,2022,18,16.5,867.425000000006,850.925000000006,1
+"WMtqO37R3RN","MOH - Uganda","Karamoja","Nabilatuk District","Nabilatuk Subcounty","Nabilatuk Mission HC II","Nabilatuk Mission HC II",2466,2022,20,18.88,938.160000000002,919.280000000002,1
+"WuyEZ5vAK0Z","MOH - Uganda","North Central","Kiboga District","Kiboga Town Council","St. Marys Clinic Kiboga HC II","St. Marys Clinic Kiboga HC II",202,2022,24,1,81.3849999999994,80.3849999999994,1
+"flJx2pns0FY","MOH - Uganda","Acholi","Pader District","Puranga Subcounty","Puranga HC III","Puranga HC III",4313,2022,43,123.8,1684.55000000001,1560.75000000001,1
+"hA3RIyJEMci","MOH - Uganda","Acholi","Nwoya District","Anaka Town Council","NUMES Medical Centre","NUMES Medical Centre",163,2022,17,2.98,65.2450000000001,62.2650000000001,1
+"iR4NuGQdNOq","MOH - Uganda","Tooro","Kamwenge District","Busiriba Subcounty","Busiriba HC II","Busiriba HC II",3493,2022,6,28.88,1379.67999999999,1350.79999999999,1
+"s2YKRj63tJX","MOH - Uganda","Kampala","Kampala District","Nakawa Division","Luzira Remand Prison HC III","Luzira Remand Prison HC III",400,2022,2,5,141.25,136.25,1

@@ -1,0 +1,68 @@
+dhis_name,display_name,code_name,dhis_id,frequency
+033B-CD01a. Malaria (diagnosed) - Cases,Malaria cases,cases,fUflbWWhouR,weekly
+033B-CD01b. Malaria (diagnosed) - Deaths,Malaria deaths,deaths,IoZCByEDSnX,weekly
+033B-MA01. Suspected Malaria (Fever),Suspected malaria,suspected,Nn9jPjcjg1j,weekly
+033B-MA02. Cases Tested with RDT,Cases tested with RDT,rdt_tested,lQXr10kZXrB,weekly
+033B-MA03. RDT Positive Cases,RDT positive cases,rdt_pos,IPKYiWv1XVS,weekly
+033B-MA04. Cases Tested with Microscopy,Cases tested with microscopy,micro_tested,RGDv14C4Cdw,weekly
+033B-MA05. Microscopy Positive Cases,Microscopy positive cases,micro_pos,QUkfKUGRuPs,weekly
+033B-MA07. RDT Negative Cases Treated,RDT negative cases treated,rdt_neg_tx,YBXFadujBCQ,weekly
+033B-MA08. RDT Positive Cases Treated,RDT positive cases treated,rdt_pos_tx,qR6OsOxADKt,weekly
+033B-MA09. Microscopy Negative Cases Treated,Microscopy negative cases treated,micro_neg_tx,sDDBGMsrw6z,weekly
+033B-MA10. Microscopy Positive Cases Treated,Microscopy positive cases treated,micro_pos_tx,S97lGebltuo,weekly
+033B-TR01. ACT (Tablets),ACT stock,tx_stock,yEBHw6JcWsq,weekly
+033B-TR06. IV Artesunate 60 mg vials,Artesunate stock,artesunate_stock,su413J34Lfz,weekly
+033B-TR08. RDT (Malaria) Tests,RDT stock,rdt_stock,OUq5CEoJ97W,weekly
+105-AN010. Third dose IPT (IPT3),IPT3,ipt3,DuMMAbvDfjn,monthly
+105-AN01a. ANC 1st Visit for women,ANC 1st visit,anc1,Q9nSogNmKPt,monthly
+105-AN01b. ANC 1st Visit for women (1st Trimester),ANC 1st visit_Trim1,anc1_tri,uUYRrEU5iOB,monthly
+105-AN09. Second dose IPT (IPT2),IPT2,ipt2,S1wIc5GXHZK,monthly
+105-AN23. Pregnant Women receiving LLINs at ANC 1st visit,LLIN at ANC1,anc_llin,KwdS7TztHf0,monthly
+105-EP01a. Suspected fever,Suspected malaria,susp_malaria,JhvC7ZR9hUe,monthly
+105-EP01b. Malaria Total,Totmalaria,tot_malaria,D9A0afrTYPw,monthly
+105-EP01c. Malaria Confirmed (B/s and RDT Positive),Confirmed malaria,conf_malaria,wUDxFVBapIc,monthly
+105-EP01d. Malaria cases treated,Maltreated,tx_malaria,QHnwKs2OUZv,monthly
+105-MC04. Malaria in pregnancy,MIP,mip,BnXSeyr1Er2,monthly
+105-SS01a. Artemether/Lumefantrine 120/20 mg - Quantity consumed,ALconsumed,al_consumed,RIBMopGoWHl,monthly
+105-SS01b. Artemether/Lumefantrine 120/20 mg - Days out of stock,ALstockout,al_stockout,pDoc60OZDbH,monthly
+105-SS01c. Artemether/Lumefantrine 120/20 mg - Stock on hand,ALstock,al_stock,fy34HLoHa0x,monthly
+105-SS01d. Artemether/Lumefantrine 120/20 mg - Quantity Expired,ALexpired,al_expired,Q6ne3khBitH,monthly
+105-SS04a. Sulfadoxine/ Pyrimethamine tablet - Quantity consumed,SP Consumed,sp_consumed,eu5hj9Xa9vP,monthly
+105-SS04b. Sulfadoxine/ Pyrimethamine tablet - Days out of stock,SP days out stock,sp_stockout,g6UvWXJodNP,monthly
+105-SS04c. Sulfadoxine/ Pyrimethamine tablet - Stock on hand,SP stock at hand,sp_stock,SttnQWaT8fW,monthly
+105-SS04d. Sulfadoxine/ Pyrimethamine tablet - Quantity Expired,SP Expired,sp_expired,RKgzwmmLqUK,monthly
+105-SS11a. Malaria Rapid Diagnostic tests - Quantity consumed,RDTconsumed,rdt_consumed,oCtCwUE7utd,monthly
+105-SS11b. Malaria Rapid Diagnostic tests - Days out of stock,RDTstockout,rdt_stockout,SBbhtV3VJvj,monthly
+105-SS11c. Malaria Rapid Diagnostic tests - Stock on hand,RDTstock,rdt_stock,HhhkiZDx1vo,monthly
+105-SS11d. Malaria Rapid Diagnostic tests - Quantity Expired,RDTexpired,rdt_expired,Uk5CFlynuP8,monthly
+108-CI01. No. of beds,nobeds,beds,R9l3TcJpS5I,monthly
+108-CI02. No. of admissions,Noadmissions,admissions,UwnR5kr982Y,monthly
+108-CI03. No. of deaths,Nodeaths,deaths,vyOajQA5xTu,monthly
+108-EP01a.1. Malaria Total (Cases),IPtotmalaria,ip_cases,BWZFz9RJRPI,monthly
+108-EP01a.2. Malaria Total (Deaths),IPDmaldeaths,ip_deaths,AuAOIfCuBUp,monthly
+108-EP01b.1. Malaria Confirmed (Microscopic &RDT) (Cases),IPDconfirmedmal,ip_conf_cases,pRZrTLDN7Ge,monthly
+108-EP01b.2. Malaria Confirmed (Microscopic &RDT) (Deaths),IPDconfirmedmaldeaths,ip_conf_deaths,gHjJrtw9vQX,monthly
+108-MC03a. Malaria in pregnancy (Cases),IPDMIP,ip_mip,QmlhUL99jdt,monthly
+108-MC03b. Malaria in pregnancy (Deaths),MIPdeaths,ip_mip_deaths,NQ7dTz23aAa,monthly
+108-ME07a. All others (Cases),Allcases,other_cases,O0mZlq4yYtv,monthly
+108-ME07b. All others (Deaths),Allotherdeaths,other_deaths,KUR1yjLJYoa,monthly
+108-RT01. Severe malaria,Severemal,severe_malaria,sZnRxCdLM18,monthly
+108-UT03. No. of units transfused,unitsbloodtransfused,blood_transf,UMtBH5OMxDU,monthly
+"HMIS 105:01 - OPD Monthly Report (Attendance, Referrals, Conditions,TB, Nutrition) Reporting rate",Reporting rate,reporting_rate,RtEYsASU7PG.REPORTING_RATE,monthly
+105-PS01a. Microscopy done,Cases tested with microscopy,micro_tested,jmpvzaJi5c0,monthly
+105-PS02a. RDT done,Cases tested with RDT,rdt_tested,JfOGWtiSj1J,monthly
+105-PS01b. Microscopy positive,Microscopy positive cases,micro_pos,OwLbdAphoNp,monthly
+105-PS02b. RDT positive,RDT positive cases,rdt_pos,OOsYcFK5YbS,monthly
+097b-IC05. Number of Children 2 months - 5yrs cases with fever seen by VHTs,VHT fever seen,vht_fever,ZPgTzBpXQtT,quarterly
+097b-IC06. Number of Children 2months - 5yrs cases with fever that received malaria RDT seen by VHT,VHT fever received RDT,vht_rdt,SZOxZEnWtGU,quarterly
+097b-IC07. Number of Sick Children 2months-5yrs with confirmed Malaria by RDT,VHT RDT confirmed malaria,vht_conf_malaria,UvBZpWxJ8ff,quarterly
+097b-IC08. Number of Sick children 2 months- 5yrs cases that received ACT,VHT treated ACT,vht_tx_act,CBy1S08hyCf,quarterly
+097b-IC10. Number of Sick children 2 months - 5yrs with fever and danger sign treated with rectal artesunate,VHT treated artesunate,vht_tx_artesunate,iA5HPQs1eYm,quarterly
+097b-IC11. Number of Sick children 2 months - 5 years seen by VHT and treated within 24hrs for fever,VHT treated within 24 hours,vht_tx_24,nyvUQIzJcJQ,quarterly
+097b-SS01. Total number of Villages with stock out of First line anti-Malarial (ACT),Villages stock out ACT,vht_stockout_act,NSxGAut6ETN,quarterly
+097b-SS09. Total number of Villages with stock out of RDTs,Villages stock out RDT,vht_stockout_rdt,xCPny2fq8Wj,quarterly
+097b-VH32. Total Number of Household members using LLIN,VHT household members using LLIN,vht_llin,BUlYKu6MgP9,quarterly
+097b-VS02. Number of VHTs implementing ICCM,VHTs implementing ICCM,vht_iccm,HGqRvZF6IcM,quarterly
+097b-VS04. Number of VHs expected to report,VHTs expected to report,vht_expect_report,Lx2zvo5EU0I,quarterly
+097b-VS05. Number of VHTs attached to the facility that submitted a report (All programs),VHTs attached to facility reporting,vht_facility_reporting,szYQEsYd44P,quarterly
+097b-VS06. Number of villages reporting,VHT villages reporting,vht_actual_report,xCP0SCOn2ov,quarterly

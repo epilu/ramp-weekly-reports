@@ -1,0 +1,104 @@
+"location_id","national","region","district","subcounty","facility","location_name","suspected","year","week","q1","q3","iqr","potential_outlier"
+"AT6wxdMK8PV","MOH - Uganda","Ankole","Kiruhura District","Kenshunga Subcounty","Rwabigyemano HC III","Rwabigyemano HC III",6996,2022,47,57.3,327.55,270.25,1
+"Az3dr4kZboc","MOH - Uganda","Acholi","Gulu City","Gulu West","Charity Medical Centre","Charity Medical Centre",415,2022,25,20,94,74,1
+"BzFOI8BjIMz","MOH - Uganda","South Central","Wakiso District","Masuliita Town Council","Kiziba Catholic/Kiziba St. Ulrika HC III","Kiziba Catholic/Kiziba St. Ulrika HC III",255,2022,22,17.5,64,46.5,1
+"C46L5bEGtcn","MOH - Uganda","Bugisu","Mbale City","Mbale Industrial Division","SDA HC III","SDA HC III",74,2022,13,29.4,44.4,15,1
+"CijKO0Edzep","MOH - Uganda","South Central","Lwengo District","Lwengo Subcounty","Mbirizi Muslim HC III","Mbirizi Muslim HC III",89,2022,18,31,53.875,22.875,1
+"DQT0OSOZ3sf","MOH - Uganda","South Central","Lwengo District","Kyazanga Subcounty","St. Peter,Busibo","St. Peter,Busibo",759,2022,45,55.2,275.224999999998,220.024999999998,1
+"DbISdEaBLk6","MOH - Uganda","Busoga","Bugweri District","Idudi Town Council","New Life Medical Centre HC II","New Life Medical Centre HC II",71,2022,19,4.8,29.6000000000001,24.8000000000001,1
+"EBCRwGo5bqm","MOH - Uganda","Tooro","Bunyangabu District","Kabonero Subcounty","Rwagimba HC III","Rwagimba HC III",655,2022,24,15.2,154.8,139.6,1
+"EKPCmrHaBSg","MOH - Uganda","Busoga","Iganga District","Central Division (Iganga MC)","Iganga Hospital","Iganga Hospital",1166,2022,34,170.5,563,392.5,1
+"EYFKJlJa6Mp","MOH - Uganda","West Nile","Maracha District","Yivu Subcounty","Loinya HC II","Loinya HC II",874,2022,30,65.15,277.225,212.075,1
+"EYaoFJ7u4nr","MOH - Uganda","Karamoja","Nabilatuk District","Lorengedwat Subcounty","Lorengedwat HC III","Lorengedwat HC III",1047,2022,39,86.2,362.25,276.05,1
+"F2hXRn6Ctfr","MOH - Uganda","Kampala","Kampala District","Rubaga Division","Faith Orthopedic Clinic HC II","Faith Orthopedic Clinic HC II",120,2022,9,5,18.3499999999997,13.3499999999997,1
+"FICwy0lTFNW","MOH - Uganda","Busoga","Mayuge District","Bukabooli Subcounty","Bugoto HC II","Bugoto HC II",2112,2022,27,32,257,225,1
+"FtIIuxEaVdq","MOH - Uganda","Busoga","Bugiri District","Bulesa Subcounty","God's Mercy Clinic","God's Mercy Clinic",190,2022,33,9.25,46.375,37.125,1
+"GjiT4Fcwj6P","MOH - Uganda","North Central","Kyankwanzi District","Gayaza Subcounty","Kiyuni HC III","Kiyuni HC III",1971,2022,40,47.75,285.35,237.6,1
+"H7B1Pk6eZoE","MOH - Uganda","West Nile","Yumbe District","Kei Subcounty","Tuliki HC II","Tuliki HC II",1339,2022,36,76.6,311.4,234.8,1
+"HHDvc2TzPnl","MOH - Uganda","Bukedi","Pallisa District","Puti-Puti Subcounty","Mpongi HC III","Mpongi HC III",70720,2022,37,185.5,2450.4999999999,2264.9999999999,1
+"HXap310Pwnz","MOH - Uganda","Tooro","Kamwenge District","Rukunyu Town Council","Rukunyu Hospital","Rukunyu Hospital",1133,2022,10,85,396.7,311.7,1
+"IkVvGrqJfm0","MOH - Uganda","Ankole","Ntungamo District","Eastern Division (Ntungamo MC)","Ruhoko HC III","Ruhoko HC III",822,2022,41,46.5,201.625,155.125,1
+"InypOoNC7U0","MOH - Uganda","South Central","Lyantonde District","Lyakajura Subcounty","Kyemamba HC II","Kyemamba HC II",665,2022,4,16.15,129.8,113.65,1
+"JP9pjuteIwh","MOH - Uganda","West Nile","Nebbi District","Kucwiny Subcounty","Rose of Sharon maternity Centre HC III","Rose of Sharon maternity Centre HC III",42,2022,40,6.9,18.2499999999999,11.3499999999999,1
+"JlJEgbrfw9y","MOH - Uganda","Kampala","Kampala District","Central Division (Kampala CCA)","The Surgeon's Plaza HC II","The Surgeon's Plaza HC II",18,2022,9,2,7.87499999999999,5.87499999999999,1
+"MfrOih2CtcR","MOH - Uganda","Tooro","Kasese District","Bugoye Subcounty","Rwenzori Mt. Services HC III","Rwenzori Mt. Services HC III",689,2022,20,3,155.400000000002,152.400000000002,1
+"Ny6gpfiiHon","MOH - Uganda","Bugisu","Bukwo District","Chesower Subcounty","Chesower HC III","Chesower HC III",1301,2022,1,45.4,391.499999999999,346.099999999999,1
+"OHSQd2FWUzu","MOH - Uganda","Tooro","Kasese District","Lake Katwe Subcounty","Lake Katwe Prison Clinic","Lake Katwe Prison Clinic",35,2022,32,1,12.9,11.9,1
+"OdQ5ixGmXRt","MOH - Uganda","Kampala","Kampala District","Nakawa Division","Luzira Women Prison HC III","Luzira Women Prison HC III",210,2022,25,2.4,35.6,33.2,1
+"OtHSbYGRmmu","MOH - Uganda","North Central","Nakaseke District","Kiwoko Town Council","Kiwoko Hospital","Kiwoko Hospital",489,2022,25,140.8,273.8,133,1
+"PryeJSoBxSs","MOH - Uganda","Tooro","Kasese District","Nyamwamba Division","Kyemihoko HC II","Kyemihoko HC II",109,2022,22,10,43.4499999999998,33.4499999999998,1
+"QDc7Wijvfca","MOH - Uganda","Acholi","Gulu City","Gulu East","Gulu Regional Referral Hospital","Gulu Regional Referral Hospital",1156,2022,9,9.4,445.399999999998,435.999999999998,1
+"Qo6Yl2KCs1f","MOH - Uganda","Tooro","Kasese District","Nyakatonzi Subcounty","Nyakatonzi Good Care Samaritan HC II","Nyakatonzi Good Care Samaritan HC II",94,2022,22,1,31.9999999999998,30.9999999999998,1
+"QwKtJKWbS0E","MOH - Uganda","North Central","Luwero District","Makulubita Subcounty","Nsanvu HC II","Nsanvu HC II",304,2022,12,32,140,108,1
+"RM8vegpr7j7","MOH - Uganda","Acholi","Agago District","Paimol Subcounty","Paimol HC III","Paimol HC III",535303,2022,24,95.85,40755.4499999977,40659.5999999977,1
+"RndGp2J7TuE","MOH - Uganda","Ankole","Buhweju District","Kajani Town Council","Butare HC III","Butare HC III",458,2022,18,5.95,79.6999999999994,73.7499999999994,1
+"SFqksyF2OnO","MOH - Uganda","Bukedi","Busia District","Majanji Town Council","Majanji HC II","Majanji HC II",1900,2022,13,85.1,286.85,201.75,1
+"SHSEJEsSeiE","MOH - Uganda","Bugisu","Kween District","Kaptoyoy Subcounty","Kapteror HC II","Kapteror HC II",41,2022,1,2,16.2000000000001,14.2000000000001,1
+"TjEiAVNTIFy","MOH - Uganda","North Central","Mityana District","Central Division (Mityana MC)","Mityana Hospital","Mityana Hospital",1439,2022,46,23,252.575,229.575,1
+"UJeBuAmnnuk","MOH - Uganda","Karamoja","Moroto District","Northern Division (Moroto MC)","Dmos Clinic HC II","Dmos Clinic HC II",1077,2022,23,41.75,281.5,239.75,1
+"UpumtCGZcN0","MOH - Uganda","Acholi","Gulu City","Gulu West","Glanhor Clinic","Glanhor Clinic",781,2022,9,31.8,156.400000000001,124.600000000001,1
+"V2ylFCAVj0U","MOH - Uganda","Bunyoro","Hoima City","Central Ward","Hoima Regional Referral Hospital","Hoima Regional Referral Hospital",801,2022,18,35,264,229,1
+"V7fbzGI10qW","MOH - Uganda","North Central","Nakaseke District","Kapeeka Subcounty","Namusaale HC II","Namusaale HC II",510,2022,10,22,89.3499999999999,67.3499999999999,1
+"W2DisxptRpM","MOH - Uganda","Ankole","Ntungamo District","Rweikiniro Subcounty","Kibeho HC II","Kibeho HC II",2210,2022,18,30.2,217.6,187.4,1
+"WGc7kKRhPaH","MOH - Uganda","Kampala","Kampala District","Nakawa Division","Murchision Bay Main Hospital","Murchision Bay Main Hospital",219,2022,43,15.9,53.65,37.75,1
+"WMtqO37R3RN","MOH - Uganda","Karamoja","Nabilatuk District","Nabilatuk Subcounty","Nabilatuk Mission HC II","Nabilatuk Mission HC II",2466,2022,20,21.6,305.799999999999,284.199999999999,1
+"Wt9Nv0yRC4a","MOH - Uganda","North Central","Luwero District","Luwero Town Council","NACOL Medical Center HC IV","NACOL Medical Center HC IV",100,2022,19,6,30.6499999999998,24.6499999999998,1
+"WuyEZ5vAK0Z","MOH - Uganda","North Central","Kiboga District","Kiboga Town Council","St. Marys Clinic Kiboga HC II","St. Marys Clinic Kiboga HC II",202,2022,24,1.15,15,13.85,1
+"Xa2GHu3YN8X","MOH - Uganda","Bunyoro","Kikuube District","Kabwoya Subcounty","Sebigoro HC III","Sebigoro HC III",1700,2022,24,69.4,423.299999999998,353.899999999998,1
+"Y7AAzZu1IrM","MOH - Uganda","North Central","Kayunga District","Nazigo Town Council","Nazigo HC III","Nazigo HC III",550,2022,5,133.1,294.85,161.75,1
+"Y8UhpQhdeP2","MOH - Uganda","North Central","Luwero District","Bamunanika Subcounty","Bamunanika HC III","Bamunanika HC III",117117,2022,35,80,12248.65,12168.65,1
+"YTYOolNiu9C","MOH - Uganda","Busoga","Bugiri District","Western Division (Bugiri MC)","URHB Medical Center Clinic","URHB Medical Center Clinic",38,2022,26,1,9.49999999999991,8.49999999999991,1
+"Z0euhskPX5T","MOH - Uganda","Acholi","Pader District","Latanya Subcounty","Latigi HC II","Latigi HC II",1072,2022,42,43.25,364.125,320.875,1
+"ZdDYJV1qr97","MOH - Uganda","Busoga","Bugweri District","Namalemba Subcounty","Namunyumya HC II","Namunyumya HC II",609,2022,21,66.55,245.474999999998,178.924999999998,1
+"a4070sNyyVO","MOH - Uganda","Teso","Soroti District","Kamuda Subcounty","Kamuda HC III","Kamuda HC III",4831,2022,42,153.2,947.399999999988,794.199999999988,1
+"aFlGqyWRQfr","MOH - Uganda","South Central","Wakiso District","Kyengera Town Council","Nsangi HC III","Nsangi HC III",272,2022,28,35,123.999999999999,88.9999999999993,1
+"aLF9fK0AtT7","MOH - Uganda","Tooro","Kyenjojo District","Butiiti Subcounty","Hope Again Medical Centre HC III","Hope Again Medical Centre HC III",175,2022,27,20.2,73.85,53.65,1
+"aOHWQc76Dvu","MOH - Uganda","South Central","Mpigi District","Mpigi Town Council","Double Cure HC IV","Double Cure HC IV",568,2022,30,54.6,172.75,118.15,1
+"aWIgSZ4D5jT","MOH - Uganda","Bunyoro","Hoima City","Central Ward","Hoima Ddho's Clinic HC II","Hoima Ddho's Clinic HC II",1125,2022,16,29.25,237.924999999996,208.674999999996,1
+"aa3pe5ISanH","MOH - Uganda","Bugisu","Sironko District","Bumalimba Subcounty","Mutufu HC II","Mutufu HC II",750,2022,35,86.2,204.875,118.675,1
+"abHQOTY0rmo","MOH - Uganda","Kigezi","Rukungiri District","Buyanja Town Council","Buyanja HC III","Buyanja HC III",787,2022,5,32.5,248.25,215.75,1
+"abtrhUk5vt2","MOH - Uganda","Kigezi","Rubanda District","Ikumba Subcounty","Ihunga (Rubanda) HC II","Ihunga (Rubanda) HC II",47,2022,24,1,12.5,11.5,1
+"aqG8bVVJdXW","MOH - Uganda","Teso","Kumi District","Kanyum Subcounty","Olimai HC III","Olimai HC III",245,2022,2,3.65,58.5499999999994,54.8999999999994,1
+"avy7joRGT2x","MOH - Uganda","West Nile","Madi-Okollo District","Ogoko Subcounty","Ogoko HC II","Ogoko HC II",1009,2022,34,45,353,308,1
+"az7Fcxfmke7","MOH - Uganda","Busoga","Iganga District","Namungalwe Subcounty","Namunkesu HC II","Namunkesu HC II",1870,2022,40,82.8,274.949999999995,192.149999999995,1
+"d8wJvZXLzrK","MOH - Uganda","Tooro","Kasese District","Central Division (Kasese MC)","Afya Kamili HC III","Afya Kamili HC III",151,2022,32,16.35,65.325,48.975,1
+"e1yDQz1fohd","MOH - Uganda","Kigezi","Rukiga District","Rwamucucu Subcounty","Noozi HC II","Noozi HC II",22,2022,51,1,7.95,6.95,1
+"ec6ZVy4whk5","MOH - Uganda","North Central","Luwero District","Zirobwe Subcounty","Zirobwe HC III","Zirobwe HC III",13260,2022,41,67.5,1934,1866.5,1
+"ejl0uMalFn1","MOH - Uganda","Tooro","Kyegegwa District","Rwentuha Subcounty","Migamba HC II","Migamba HC II",1077,2022,45,26.4,275.6,249.2,1
+"f9oPkk2jKiy","MOH - Uganda","Ankole","Mbarara City","Kamukuzi Division","Kamukuzi Dho HC II","Kamukuzi Dho HC II",57,2022,51,6,23,17,1
+"flJx2pns0FY","MOH - Uganda","Acholi","Pader District","Puranga Subcounty","Puranga HC III","Puranga HC III",4313,2022,43,137.5,414.875,277.375,1
+"gZ3NMTYLEMJ","MOH - Uganda","Lango","Oyam District","Minakulu Town Council","Minakulu HC III","Minakulu HC III",83,2022,16,12.1,37.75,25.65,1
+"go8pa2yrjbk","MOH - Uganda","Teso","Katakwi District","Toroma Subcounty","Akurao HC II","Akurao HC II",2226,2022,25,54.75,714,659.25,1
+"grKJgZGCS9b","MOH - Uganda","North Central","Nakaseke District","Kapeeka Subcounty","Singo HC III","Singo HC III",1161,2022,38,49,289.649999999996,240.649999999996,1
+"h6mBc3T03Ze","MOH - Uganda","Karamoja","Kotido District","Kacheri Subcounty","Lokiding HC II","Lokiding HC II",516,2022,50,22.2,203,180.8,1
+"hA3RIyJEMci","MOH - Uganda","Acholi","Nwoya District","Anaka Town Council","NUMES Medical Centre","NUMES Medical Centre",163,2022,17,4,29.55,25.55,1
+"hWmBAtJo9c6","MOH - Uganda","Ankole","Mbarara City","Kamukuzi Division","Doctors Plaza HC IV","Doctors Plaza HC IV",22,2022,26,4,10,6,1
+"hcm0msXFRQJ","MOH - Uganda","West Nile","Yumbe District","Ariwa Subcounty","Ariwa HC III","Ariwa HC III",979,2022,24,134.35,390.825,256.475,1
+"hwoDPTdbx6d","MOH - Uganda","Bugisu","Bududa District","Nangako Town Council","Fimrc HC III","Fimrc HC III",785,2022,47,141.8,356.724999999998,214.924999999998,1
+"iR4NuGQdNOq","MOH - Uganda","Tooro","Kamwenge District","Busiriba Subcounty","Busiriba HC II","Busiriba HC II",3493,2022,6,72.4,289.8,217.4,1
+"j1gpp563TOQ","MOH - Uganda","Kampala","Kampala District","Nakawa Division","AAR Ntinda HC II","AAR Ntinda HC II",396,2022,9,49.65,160.124999999999,110.474999999999,1
+"jV5UvqIn4DU","MOH - Uganda","West Nile","Moyo District","Metu Subcounty","Erepi HC II","Erepi HC II",187,2022,27,19.7,75.0749999999995,55.3749999999995,1
+"kG0Pg9QsbJM","MOH - Uganda","Acholi","Gulu City","Gulu West","St. Nektarios Orthodox HC III","St. Nektarios Orthodox HC III",122,2022,45,6.6,31.1,24.5,1
+"m2ROGumujet","MOH - Uganda","South Central","Wakiso District","Namayumba Town Council","Namayumba HC IV","Namayumba HC IV",1043,2022,8,115.9,480.599999999998,364.699999999998,1
+"ntpmcM5sv9V","MOH - Uganda","Tooro","Bundibugyo District","Ntotoro Subcounty","Mantoroba HC II","Mantoroba HC II",169,2022,34,7.35,46.65,39.3,1
+"ocmJzmqmXWX","MOH - Uganda","North Central","Mityana District","Busimbi Division","St. Luke Kiyinda Mityana Diocese HC III","St. Luke Kiyinda Mityana Diocese HC III",4901,2022,13,21.9,298.249999999986,276.349999999986,1
+"pBmSV8i8O4m","MOH - Uganda","Karamoja","Moroto District","Tapac Subcounty","Kalemungole HC II","Kalemungole HC II",374,2022,29,16,94.3,78.3,1
+"qaASxmxnCUG","MOH - Uganda","Kampala","Kampala District","Makindye Division","Biorex Medical Services HC II","Biorex Medical Services HC II",232,2022,37,8.55,56.2499999999992,47.6999999999992,1
+"qdW8M8091gP","MOH - Uganda","North Central","Buikwe District","Ngogwe Subcounty","Ngogwe HC III","Ngogwe HC III",700,2022,24,100,314.25,214.25,1
+"qqW763qthZ4","MOH - Uganda","Karamoja","Kotido District","Panyangara Subcounty","Apa Lopus HC II","Apa Lopus HC II",124,2022,16,4.2,51.2000000000003,47.0000000000003,1
+"rQkhTj9VFoS","MOH - Uganda","Tooro","Kamwenge District","Lyakahungu Town Council","Bihanga HC II","Bihanga HC II",2020,2022,5,34.3,453.449999999997,419.149999999997,1
+"rUHkBmAX6tC","MOH - Uganda","Tooro","Kasese District","Nyamwamba Division","Alleluah Med.  Centre HC III","Alleluah Med.  Centre HC III",137,2022,22,5.05,29.95,24.9,1
+"s2YKRj63tJX","MOH - Uganda","Kampala","Kampala District","Nakawa Division","Luzira Remand Prison HC III","Luzira Remand Prison HC III",400,2022,2,6.5,54.25,47.75,1
+"tCyqZmtVPLI","MOH - Uganda","West Nile","Terego District","Uriama Subcounty","Ofua (Uriama) HC III","Ofua (Uriama) HC III",4899,2022,43,234.9,651.65,416.75,1
+"uqk1XgbxpCg","MOH - Uganda","West Nile","Maracha District","Alikua Subcounty","Yivu Abea HC III","Yivu Abea HC III",278,2022,28,59.05,135,75.95,1
+"va7uRTbKCoJ","MOH - Uganda","North Central","Luwero District","Wobulenzi Town Council","Bukalasa HC III","Bukalasa HC III",722,2022,47,64.8,213,148.2,1
+"vrcXdDnZebF","MOH - Uganda","South Central","Lyantonde District","Kasagama Subcounty","Kasagama Medical Centre (Kasagama) Clinic","Kasagama Medical Centre (Kasagama) Clinic",35,2022,8,4,14.875,10.875,1
+"wIPpj88edTW","MOH - Uganda","West Nile","Terego District","Odupi Subcounty","Tank29 HC II","Tank29 HC II",424424,2022,1,212.7,11199.4999999994,10986.7999999994,1
+"wLRE0kUuiHk","MOH - Uganda","Kampala","Kampala District","Makindye Division","Maria Thereza Domiciliary Clinic HC II","Maria Thereza Domiciliary Clinic HC II",88,2022,32,7,34.625,27.625,1
+"wepUthscBkh","MOH - Uganda","Kampala","Kampala District","Rubaga Division","Kawaala Health Centre HC IV","Kawaala Health Centre HC IV",3260,2022,18,180.3,585.55,405.25,1
+"yEukLFOEQ1X","MOH - Uganda","Acholi","Omoro District","Odek Subcounty","Dino HC II","Dino HC II",997,2022,43,19.1,306.05,286.95,1
+"yTVIFlAzVwb","MOH - Uganda","Karamoja","Napak District","Lokopo Subcounty","Apeitolim HC II","Apeitolim HC II",1083,2022,8,52.5,313.75,261.25,1
+"yWHTUO9adBP","MOH - Uganda","Tooro","Kyenjojo District","Bugaaki Subcounty","Kagorogoro Dispensary HC II","Kagorogoro Dispensary HC II",316,2022,4,14,46,32,1
+"yxDPFHbwMg3","MOH - Uganda","North Central","Buikwe District","Buikwe Subcounty","Buikwe  Prison HC II","Buikwe  Prison HC II",15,2022,23,2,7,5,1
+"zFh5V1XEvx5","MOH - Uganda","Kampala","Kampala District","Makindye Division","Ark Medical Clinic HC II","Ark Medical Clinic HC II",41,2022,44,3,10,7,1
+"zbCIfsyXOEv","MOH - Uganda","Bunyoro","Kikuube District","Kyangwali Subcounty","Maratatu HC III","Maratatu HC III",26575,2022,24,1190.4,7455.00000000007,6264.60000000007,1
