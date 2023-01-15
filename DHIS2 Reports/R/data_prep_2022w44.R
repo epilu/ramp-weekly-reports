@@ -1,6 +1,7 @@
 #import libraries
 library(dplyr)
 library(tidyverse)
+library(viridis)
 
 #Set working director
 setwd("D:/Ramp/")
